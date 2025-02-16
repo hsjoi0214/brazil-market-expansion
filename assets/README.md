@@ -6,7 +6,7 @@ With **Apple product sales growing by 21% YoY** and a **market share of ~10.02%*
 
 Eniac aims to leverage local production initiatives and optimize its supply chain to enhance efficiency in this growing market.
 
-![Eniac Brazil Market Expansion](brazil_market.png)
+![Eniac Brazil Market Expansion](/assets/brazil_market.png)
 
 ### **Problem Statement:**
 Eniac, a high-end tech product company, is expanding into the Brazilian market. A crucial part of this expansion is securing a reliable delivery partner capable of efficiently handling high-value tech products. The company has evaluated **Magist**, a Brazilian delivery company, and obtained its data for analysis.
@@ -31,28 +31,28 @@ This project evaluates **Magist**, a potential delivery partner for Eniac, throu
 ### **1. Market Share of High-Value Tech Products**
 - Only **18.4%** of high-value products sold in Brazil were Tech-related products.
 
-  ![](tech_market_share.png)
+  ![](/assets/tech_market_share.png)
 
 - **General customer reviews**:
   - **Positive:** 76.8%
   - **Neutral:** 14.9%
   - **Negative:** 8.3%
 
-  ![](general_customer_reviews.png)
+  ![](/assets/general_customer_reviews.png)
 
 - **Tech-product specific reviews:**
   - **Positive:** 76.3%
   - **Neutral:** 8.7%
   - **Negative:** 15.0%
 
-  ![](tech_related_reviews.png)
+  ![](/assets/tech_related_reviews.png)
 
 ### **2. Delivery Time Analysis**
 - Average delivery time for all products: **12 days**
 - Seasonal fluctuations show improvement over time, even during public holidays in the year **2018**.
 
 
-  ![](seasonal_delivery_performance.png)
+  ![](/assets/seasonal_delivery_performance.png)
 
 ### **3. State-wise Performance & Sales Impact**
 - **11 states** show strong delivery performance.
@@ -60,14 +60,14 @@ This project evaluates **Magist**, a potential delivery partner for Eniac, throu
 - **5 states** perform poorly in delivery timelines.
 - **Amazonas & Ceará** show negligible sales, indicating their irrelevance for expansion.
 
-  ![](delivery_delayed_states.png)
+  ![](/assets/delivery_delayed_states.png)
 
 ### **4. Impact of Late Deliveries on Customer Reviews**
 - Products Delivered within 10 days of placing orders resulted in a 5-star (Excellent) ratings from Customer. 
 - This finding also hold true when data is filtered, based on tech-products.
 - Direct correlation between **lower delivery time** and **higher customer satisfaction**.
 
-  ![](delivery_and_ratings.png)
+  ![](/assets/delivery_and_ratings.png)
 
 
 
