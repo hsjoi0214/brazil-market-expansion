@@ -2,6 +2,12 @@
 
 ## **Purpose**
 
+With **Apple product sales growing by 21% YoY** and a **market share of ~10.02%**, Brazil presents a significant opportunity for Eniac’s expansion. However, logistical challenges, such as an **average delivery time of 16-21 days**, require a strategic approach to ensure seamless product distribution. 
+
+Eniac aims to leverage local production initiatives and optimize its supply chain to enhance efficiency in this growing market.
+
+![Eniac Brazil Market Expansion](brazil_market.png)
+
 ### **Problem Statement:**
 Eniac, a high-end tech product company, is expanding into the Brazilian market. A crucial part of this expansion is securing a reliable delivery partner capable of efficiently handling high-value tech products. The company has evaluated **Magist**, a Brazilian delivery company, and obtained its data for analysis.
 
@@ -12,8 +18,6 @@ A detailed analysis was conducted on **Magist’s** suitability as a logistics p
 - **Performance comparison across different states.**
 
 The findings help determine whether Magist meets the standards required for delivering Eniac’s products efficiently and reliably.
-
-
 
 
 
@@ -67,14 +71,10 @@ This project evaluates **Magist**, a potential delivery partner for Eniac, throu
 
 
 
-
-
 ## **Key Learnings**
 - **Technical Insights:** Data-driven decision-making improves logistics planning.
 - **Business Strategy:** A strong delivery network and the delivery time of under 10 days is crucial for customer satisfaction and expansion.
 - **Communication:** Translating data analysis into actionable business insights was a key aspect of this project.
-
-
 
 
 
@@ -86,14 +86,10 @@ This project evaluates **Magist**, a potential delivery partner for Eniac, throu
 
 
 
-
-
 ## **Additional Reflections**
 - Further **data collection** on high-end tech product sales is necessary for long-term planning.
 - **Scalability** of Magist’s logistics remains uncertain and needs periodic review.
 - **Alternative logistics providers** could be benchmarked to compare performance.
-
-
 
 
 
@@ -105,19 +101,17 @@ This project evaluates **Magist**, a potential delivery partner for Eniac, throu
 
 
 
-
 ## **Deployment & Contribution**
 ### **How to Use This Repository:**
 1. Clone the repository:
    ```sh
-   git clone https://github.com/yourusername/eniac-brazil-market.git
+   git clone https://github.com/hsjoi0214/brazil-market-expansion.git
    ```
 2. Navigate to the project folder:
    ```sh
-   cd eniac-brazil-market
+   cd brazil-market-expansion
    ```
 3. View the presentation and analysis reports.
-
 
 ### **Contributions:**
 - If you have insights or alternative recommendations, feel free to submit a pull request or open an issue.
@@ -126,12 +120,9 @@ This project evaluates **Magist**, a potential delivery partner for Eniac, throu
 
 
 
-
 ## **Languages and Libraries Used**
 - **Programming Languages:** SQL
 - **Tools:** VScode, Tableau, Google Slides
-
-
 
 
 
@@ -145,11 +136,9 @@ This project evaluates **Magist**, a potential delivery partner for Eniac, throu
 
 
 
+## **Acknowledgements**
 
-
-# **Acknowledgements**
-
-Special thanks to my mentor and instructor 'Sabine Joseph' for providing me with various materials and her valuable pointers.
+Special thanks to my mentor and instructor '**Sabine Joseph**' for providing me with various materials and her valuable pointers.
 
 
 
