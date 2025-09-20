@@ -1,7 +1,24 @@
 # **Eniac Brazil Market Expansion**
 
-## **Purpose**
+> ## **Note**  
+> This work is part of a data science project using an artificial dataset provided by the project owner.  
+> The goal was to practice extracting insights from data and presenting them in a clear, structured way.  
+> The entire project was done in **Tableau**, and you can check the **Tableau workbook** attached.  
+> Additionally, you can view the original snapshots of graphs from Tableau along with the schema used.
 
+---
+
+**Status:** Portfolio project using a synthetic dataset.  
+**Focus:** Evaluate **Magist** as a delivery partner for high-value tech products in Brazil.
+
+📦 **Packaged Workbook (.twbx):** `tableau/eniac_brazil.twbx`  
+📄 **Slides:** `docs/presentation.pdf`  
+🖼️ **Original Tableau Exports:** `docs/snapshots/`  
+📊 **Schema Diagram:** `docs/schema.png`
+
+--- 
+
+## **Purpose**
 With **Apple product sales growing by 21% YoY** and a **market share of ~10.02%**, Brazil presents a significant opportunity for Eniac’s expansion. However, logistical challenges, such as an **average delivery time of 16-21 days**, require a strategic approach to ensure seamless product distribution. 
 
 Eniac aims to leverage local production initiatives and optimize its supply chain to enhance efficiency in this growing market.
@@ -19,12 +36,12 @@ A detailed analysis was conducted on **Magist’s** suitability as a logistics p
 
 The findings help determine whether Magist meets the standards required for delivering Eniac’s products efficiently and reliably.
 
-
+--- 
 
 ## **Summary**
 This project evaluates **Magist**, a potential delivery partner for Eniac, through data analysis focusing on customer reviews, delivery efficiency, and state-wise performance. The goal is to ensure a reliable logistics network for high-value tech products in Brazil.
 
-
+---
 
 ## **Data Analysis & Findings**
 
@@ -69,14 +86,14 @@ This project evaluates **Magist**, a potential delivery partner for Eniac, throu
 
   ![](/assets/delivery_and_ratings.png)
 
-
+---
 
 ## **Key Learnings**
 - **Technical Insights:** Data-driven decision-making improves logistics planning.
 - **Business Strategy:** A strong delivery network and the delivery time of under 10 days is crucial for customer satisfaction and expansion.
 - **Communication:** Translating data analysis into actionable business insights was a key aspect of this project.
 
-
+---
 
 ## **Challenges Overcame**
 - **Limited Data on High-End Tech Products:** Addressed by tackling problem from a different perspective and segmenting data accordingly.
@@ -84,22 +101,21 @@ This project evaluates **Magist**, a potential delivery partner for Eniac, throu
 - **State-Wise Disparity in Delivery Efficiency:** Focused on identifying problem areas and assessing their impact.
 - **Seasonal Variability in Delivery Performance:** Used historical data trends to compare sales fluctuations during the year 2017-2018.
 
-
+---
 
 ## **Additional Reflections**
 - Further **data collection** on high-end tech product sales is necessary for long-term planning.
 - **Scalability** of Magist’s logistics remains uncertain and needs periodic review.
 - **Alternative logistics providers** could be benchmarked to compare performance.
 
-
+---
 
 ## **Repository Contents**
 - **Presentation Slides:** Detailed breakdown of findings and visual representation.
 - **Data Analysis Reports:** Supplementary data used for decision-making.
 - **README File:** Overview of the study and findings.
 
-
-
+---
 
 ## **Deployment & Contribution**
 ### **How to Use This Repository:**
@@ -117,14 +133,13 @@ This project evaluates **Magist**, a potential delivery partner for Eniac, throu
 - If you have insights or alternative recommendations, feel free to submit a pull request or open an issue.
 - Further data analysis and insights are welcome to refine decision-making.
 
-
-
+---
 
 ## **Languages and Libraries Used**
 - **Programming Languages:** SQL
 - **Tools:** VScode, Tableau, Google Slides
 
-
+---
 
 ## **Credits**
 - **Data Sources:**
@@ -134,7 +149,7 @@ This project evaluates **Magist**, a potential delivery partner for Eniac, throu
   - Digital Watch
 - **Analysis Conducted by:** [Prakash Joshi]
 
-
+---
 
 ## **Acknowledgements**
 
